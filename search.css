@@ -1,0 +1,23 @@
+.NavDiv {
+    font-size: 18px;
+    font-weight: bold;
+    display: flex;
+    justify-content: right;
+    }
+
+#Centered {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#search {
+    border-radius: 10px;
+    text-indent: 10px;
+    font-size: 16px;
+    height:  20px;
+}
+#googleButton {
+    height: 30px;
+    border-radius: 10px;
+}
